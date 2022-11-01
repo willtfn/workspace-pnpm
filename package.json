@@ -1,0 +1,16 @@
+{
+  "name": "pnpm",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev:vue3": "pnpm -F vite-vue3 dev",
+    "dev:vue2": "pnpm -F cli-vue2 dev"
+  },
+  "keywords": [],
+  "author": "lixiang",
+  "license": "ISC",
+  "engines": {
+    "node": ">=10",
+    "pnpm": ">=3"
+  }
+}
